@@ -15,7 +15,12 @@
 - I'm currently learning Django and ReactJS.
 
 ## 🧰 Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=cpp,cs,ros2,py,github,linux,nodejs,js,django,react,&perline=9)
+- Currently using:
+![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,ros,unity,matlab,tensorflow,pytorch)
+- Web development:
+![My Skills](https://skillicons.dev/icons?i=nodejs,js,vue,php,laravel,django,react,postgres,html,css)
+- Version control:
+![My Skills](https://skillicons.dev/icons?i=github,gitlab)
 <!-- <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" alt="ROS2" height="40" style="vertical-align:top; margin-left:10px; margin:4px">
