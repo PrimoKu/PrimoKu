@@ -17,22 +17,10 @@
 ## 🧰 Languages and Tools:
 - Currently using:
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,ros,unity,matlab,tensorflow,pytorch)
-- Web development:
+<!-- - Web development:
 ![My Skills](https://skillicons.dev/icons?i=nodejs,js,vue,php,laravel,django,react,postgres,html,css)
 - Version control:
-![My Skills](https://skillicons.dev/icons?i=github,gitlab)
-<!-- <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
-<img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" alt="ROS2" height="40" style="vertical-align:top; margin-left:10px; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-
-</p> -->
+![My Skills](https://skillicons.dev/icons?i=github,gitlab) -->
 
 <!--
 **PrimoKu/PrimoKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
