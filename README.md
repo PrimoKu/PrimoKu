@@ -23,11 +23,11 @@
 ![My Skills](https://skillicons.dev/icons?i=github,gitlab)
 
 ## :trophy: My GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=primoku)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=primoku)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=primoku)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=primoku)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=primoku&utcOffset=-5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=primoku&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=primoku&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=primoku&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=primoku&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=primoku&theme=2077&utcOffset=-5)
 <!--
 **PrimoKu/PrimoKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.&theme=2077
 
