@@ -15,12 +15,12 @@
 - I'm currently learning Django and ReactJS.
 
 ## 🧰 Languages and Tools:
-- Currently using:
+- Currently using: <br />
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,ros,unity,matlab,tensorflow,pytorch)
-<!-- - Web development:
+- Web development: <br />
 ![My Skills](https://skillicons.dev/icons?i=nodejs,js,vue,php,laravel,django,react,postgres,html,css)
-- Version control:
-![My Skills](https://skillicons.dev/icons?i=github,gitlab) -->
+- Version control: <br />
+![My Skills](https://skillicons.dev/icons?i=github,gitlab)
 
 <!--
 **PrimoKu/PrimoKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
