@@ -2,7 +2,7 @@
 
 ## Hi 👋 I'm @PrimoKu, but you can call me Arthur 😄
 
-## 🎓 I'm currently a graduate student at JHU Robotics MSE
+## 🎓 I'm currently a graduate student @ JHU Robotics MSE
 - 🔭 I'm currently building a AR application for HoloLens2.
 - 🗜 I'm also working on combining ROS2 with AR techniques.
 - 🏎 I'm interested in autonomous vehicle technology.
