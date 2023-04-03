@@ -4,7 +4,7 @@
 
 ## 🎓 I'm currently a graduate student @ JHU Robotics MSE
 - 🔭 I'm currently building a AR application for HoloLens2.
-- 🗜 I'm also working on combining ROS2 with AR techniques.
+- 🗜 I'm also working on combining ROS2 with AR technology.
 - 🏎 I'm interested in autonomous vehicle technology.
 - 👯 I’m looking to collaborate with anyone on any project.
 
